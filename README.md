@@ -7,3 +7,4 @@ Práctica de ramas: aprendiendo a trabajar con Git sin modificar main directamen
 Practica de Git: aprendiendo a distinguir los estados de un cambio.
 Práctica de Git: detección de actualizaciones remotas.
 Ejercicio 9: primer commit remoto.
+Ejercicio 9: segundo commit remoto.
